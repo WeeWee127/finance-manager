@@ -23,7 +23,7 @@
 
 1. Склонуйте репозиторій:
 ```bash
-git clone https://github.com/your-username/finance-manager.git
+git clone https://github.com/WeeWee127/finance-manager.git
 ```
 
 2. Відкрийте `index.html` у вашому браузері
