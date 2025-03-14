@@ -26,7 +26,7 @@
 git clone https://github.com/WeeWee127/finance-manager.git
 ```
 
-2. Відкрийте `index.html` у вашому браузері
+2. Вставте цю команду в термінал cd backend; python app.py щоб запустити
 
 ## Використання
 
